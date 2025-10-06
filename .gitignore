@@ -54,3 +54,5 @@ public/uploads/
 pids
 pms.json
 *.pid
+
+bash.*
